@@ -1,3 +1,8 @@
 .idea
 wp-app
-wp-app-ardetem
+wp-app-origin
+wp-data
+wp-app-prod/wp-admin
+wp-app-prod/wp-includes
+wp-app-prod/wp-content/plugins
+ardetem.zip
