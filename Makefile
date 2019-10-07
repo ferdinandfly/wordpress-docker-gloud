@@ -1,8 +1,7 @@
 docker_compose_exec = docker-compose exec -T
-docker_console = $(docker_compose_exec) php bin/console
+docker_console = $(docker_compose_exec) wp bin/console
 
 none: help
-
 
 ###############
 # Application #
@@ -38,6 +37,19 @@ bash:
 
 log:
 	docker-compose logs -f
+
+## sync with gcloud
+sync:
+	cd wp-app; gcloud app deploy app.yaml cron.yaml
+
+sync-origin:
+	cd wp-app-origin; gcloud app deploy app.yaml cron.yaml
+
+sync-wordpress:
+	cd wp-app;wp core update  --path=wordpress;
+sync-plugin:
+	cd wp-app; wp plugin update --all; wp theme update --all;
+
 
 # Help instructions
 help:

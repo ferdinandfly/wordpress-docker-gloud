@@ -151,3 +151,22 @@ wp plugin list
 You can also visit `http://127.0.0.1:8080` to access phpMyAdmin after starting the containers.
 
 The default username is `root`, and the password is the same as supplied in the `.env` file.
+
+
+
+### compress the prod project:
+```
+zip -r ardetem.zip public_html -x *wp-content/uploads* *wp-content/updraft* *wp-snapshots* *analytics/*
+```
+### check the each folder size
+
+```
+du -h --max-depth=1 | sort -hr
+```
+
+
+### detail pour install https pour wordpress docker 
+
+https://peter.pudaite.net/2017/05/29/enabling-https-on-the-standard-wordpress-docker-image/
+
+
