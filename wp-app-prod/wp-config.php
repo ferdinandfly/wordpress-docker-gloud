@@ -34,7 +34,7 @@ define('DB_COLLATE', '');
 
 // Forcer le HTTPS dans l'administration
 define('FORCE_SSL_ADMIN', true);
-
+define('DISABLE_WP_CRON', 'true');
 /**#@+
 * Authentication Unique Keys and Salts.
 *

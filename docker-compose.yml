@@ -2,7 +2,9 @@ version: '3'
 
 services:
   wp:
-    image: wordpress:latest # https://hub.docker.com/_/wordpress/
+    build:
+      dockerfile: config/Dockerfile
+      context: .
     ports:
       - ${IP}:80:80 # change ip if required
       - ${IP}:443:443 # change ip if required
@@ -13,6 +15,7 @@ services:
       #- ./plugin-name/trunk/:/var/www/html/wp-content/plugins/plugin-name # Plugin development
       #- ./theme-name/trunk/:/var/www/html/wp-content/themes/theme-name # Theme development
     environment:
+      XDEBUG_CONFIG: remote_host=host.docker.internal
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_NAME: "${DB_NAME}"
       WORDPRESS_DB_USER: root

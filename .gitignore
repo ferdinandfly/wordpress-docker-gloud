@@ -4,5 +4,9 @@ wp-app-origin
 wp-data
 wp-app-prod/wp-admin
 wp-app-prod/wp-includes
-wp-app-prod/wp-content/plugins
+wp-app-prod/wp-content/plugins/*
+wp-app-prod/wp-content/uploads/*
+wp-app-prod/wp-content/updraft/log*
+config/dump.sql
 ardetem.zip
+!wp-app-prod/wp-content/plugins/custom_new_user_email.php

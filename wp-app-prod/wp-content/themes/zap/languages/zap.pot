@@ -1,0 +1,4278 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: ZAP\n"
+"POT-Creation-Date: 2016-02-02 10:49+0700\n"
+"PO-Revision-Date: 2016-02-02 10:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:7
+msgid "404 Page Not Found"
+msgstr ""
+
+#: 404.php:8 inc/base.class.php:30
+msgid "404"
+msgstr ""
+
+#: 404.php:9
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:13
+msgid "Whoops, sorry, this page does not exist."
+msgstr ""
+
+#: 404.php:17
+msgid "Go Back Home"
+msgstr ""
+
+#: author.php:33
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:62
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: comments.php:26 inc/widgets/news_tabs.php:51
+msgid "Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "1 Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments (%)"
+msgstr ""
+
+#: comments.php:36
+msgid "Pingbacks And Trackbacks"
+msgstr ""
+
+#: comments.php:60
+msgid "<span>Post to Reply</span>"
+msgstr ""
+
+#: comments.php:61
+#, php-format
+msgid "Post to Reply %s"
+msgstr ""
+
+#: comments.php:62
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:63
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:70 comments.php:72 woocommerce/single-product-reviews.php:59
+msgid "Name"
+msgstr ""
+
+#: comments.php:76
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:78 woocommerce/single-product-reviews.php:61
+msgid "Email"
+msgstr ""
+
+#: comments.php:82
+msgid "Website"
+msgstr ""
+
+#: comments.php:87
+msgid "Comment"
+msgstr ""
+
+#: functions.php:162
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:344
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:346
+msgid ""
+"Appears on posts and pages except the optional Front Page template, which "
+"has its own widgets"
+msgstr ""
+
+#: functions.php:354
+msgid "Header Top Left"
+msgstr ""
+
+#: functions.php:356
+msgid ""
+"Appears when using the optional Header with a page set as Header top left"
+msgstr ""
+
+#: functions.php:364
+msgid "Header Top Right"
+msgstr ""
+
+#: functions.php:366
+msgid ""
+"Appears when using the optional Header with a page set as Header top right"
+msgstr ""
+
+#: functions.php:374
+msgid "Menu Right"
+msgstr ""
+
+#: functions.php:376
+msgid "Appears when using the optional Menu with a page set as Menu right"
+msgstr ""
+
+#: functions.php:384 functions.php:393 inc/options/function.options.php:719
+#: vc_params/vc_btn.php:202
+msgid "Content"
+msgstr ""
+
+#: functions.php:386 functions.php:395
+msgid "Appears when using the optional Content with a page set as Content"
+msgstr ""
+
+#: functions.php:403
+msgid "Footer Top 1"
+msgstr ""
+
+#: functions.php:405
+msgid "Appears when using the optional Footer with a page set as Footer Top 1"
+msgstr ""
+
+#: functions.php:413
+msgid "Footer Top 2"
+msgstr ""
+
+#: functions.php:415
+msgid "Appears when using the optional Footer with a page set as Footer Top 2"
+msgstr ""
+
+#: functions.php:423
+msgid "Footer Top 3"
+msgstr ""
+
+#: functions.php:425
+msgid "Appears when using the optional Footer with a page set as Footer Top 3"
+msgstr ""
+
+#: functions.php:433
+msgid "Footer Top 4"
+msgstr ""
+
+#: functions.php:435
+msgid "Appears when using the optional Footer with a page set as Footer Top 4"
+msgstr ""
+
+#: functions.php:443
+msgid "Footer Bottom Left"
+msgstr ""
+
+#: functions.php:445
+msgid ""
+"Appears when using the optional Footer Bottom with a page set as Footer "
+"Bottom left"
+msgstr ""
+
+#: functions.php:453
+msgid "Footer Bottom Right"
+msgstr ""
+
+#: functions.php:455
+msgid ""
+"Appears when using the optional Footer Bottom with a page set as Footer "
+"Bottom right"
+msgstr ""
+
+#: functions.php:463
+msgid "Shop Menu Sidebar"
+msgstr ""
+
+#: functions.php:465
+msgid "Appears when using the optional Shop with Menu attach Widget"
+msgstr ""
+
+#: functions.php:473
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:475
+msgid "Appears when using the optional Shop with a page set as Shop page"
+msgstr ""
+
+#: functions.php:483
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:485
+msgid "Appears when using the optional Cart & Search"
+msgstr ""
+
+#: functions.php:493
+msgid "Header Top Sliders"
+msgstr ""
+
+#: functions.php:495
+msgid "Appears when using the optional Revolution Sliders"
+msgstr ""
+
+#: functions.php:536
+msgid "Subtitle"
+msgstr ""
+
+#: functions.php:599
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+#: functions.php:600
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: functions.php:669
+#, php-format
+msgid "<span class=\"comment-author\">%s</span>"
+msgstr ""
+
+#: functions.php:671
+msgid "at"
+msgstr ""
+
+#: functions.php:674
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:821
+msgid "Products"
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:451
+#: inc/ReduxCore/inc/extensions/customizer/extension_customizer.php:679
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:459
+#: inc/ReduxCore/inc/extensions/customizer/extension_customizer.php:680
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:467
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:475
+#: inc/ReduxCore/inc/extensions/customizer/extension_customizer.php:681
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:482
+msgid "Please Wait"
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:493
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: inc/ReduxCore/core/enqueue.php:494
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/ReduxCore/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: inc/ReduxCore/framework.php:223
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:223
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:227 inc/ReduxCore/framework.php:231
+msgid "Options"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1720
+msgid "Enable"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1725
+msgid "Disable"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1731
+msgid "moving the mouse over"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1733
+msgid "clicking"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1737
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1742
+msgid "Hints"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:1869 inc/widgets/social.php:259
+#: vc_params/vc_btn.php:91 vc_params/vc_btn.php:104
+msgid "Default"
+msgstr ""
+
+#: inc/ReduxCore/framework.php:2740
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: inc/ReduxCore/framework.php:2816
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_filesystem.php:31
+#: inc/ReduxCore/inc/class.redux_filesystem.php:60
+#: inc/ReduxCore/inc/class.redux_filesystem.php:254
+msgid "File Permission Issues"
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_filesystem.php:60
+#: inc/ReduxCore/inc/class.redux_filesystem.php:254
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_helpers.php:596
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: inc/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/extension_customizer.php:714
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/extension_customizer.php:715
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/extension_customizer.php:716
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:114
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:138
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from File"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from URL"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:96
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Export Options"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:114
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid "Copy Data"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Download Data File"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Copy Export URL"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/options_object/extension_options_object.php:82
+#: inc/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: inc/ReduxCore/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:124
+#: inc/ReduxCore/inc/fields/color/field_color.php:73
+#: inc/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: inc/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:223
+#: vc_params/vc_column.php:78 vc_params/vc_rows.php:108
+msgid "Background Position"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:277
+#: inc/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:314
+#: inc/ReduxCore/inc/fields/media/field_media.php:198
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:126
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/background/field_background.php:321
+#: inc/ReduxCore/inc/fields/media/field_media.php:205
+#: inc/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: inc/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: inc/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:133
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:190
+#: inc/megamenu/mega-menu.php:480 inc/metacore/core.options.php:491
+msgid "Remove"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/border/field_border.php:125
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: vc_templates/zo_grid--portfolio-1.php:23
+#: vc_templates/zo_grid--portfolio-3.php:23
+#: vc_templates/zo_grid--portfolio-4.php:22
+#: vc_templates/zo_grid--portfolio-5.php:24
+#: vc_templates/zo_grid--product-1.php:20
+msgid "All"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/border/field_border.php:138
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/border/field_border.php:145
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: inc/widgets/social.php:274 vc_params/vc_btn.php:131 vc_params/vc_btn.php:157
+msgid "Right"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/border/field_border.php:152
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/border/field_border.php:159
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: inc/widgets/social.php:272 vc_params/vc_btn.php:129 vc_params/vc_btn.php:155
+msgid "Left"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/dimensions/field_dimensions.php:178
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: inc/ReduxCore/inc/fields/dimensions/field_dimensions.php:190
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: inc/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/intro_product/field_intro_product.php:72
+msgid "Forum Support"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/ReduxCore/inc/fields/intro_product/field_intro_product.php:73
+msgid "ZoTheme"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/intro_product/field_intro_product.php:74
+msgid "Contact Now"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#: inc/libs/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/select/field_select.php:83
+#: inc/ReduxCore/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/select/field_select.php:134
+#: inc/ReduxCore/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:73
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:145
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:200
+#: inc/metacore/core.options.php:458 inc/metacore/core.options.php:507
+#: inc/options/meta.options.php:214 inc/widgets/flickr-badges-widget.php:221
+#: inc/widgets/instagram.php:97
+msgid "Title"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:149
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:204
+#: inc/megamenu/mega-menu.php:210 vc_params/vc_pie.php:72
+msgid "Description"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:153
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:207
+#: inc/megamenu/mega-menu.php:173 inc/options/meta.options.php:557
+msgid "URL"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:167
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:258
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:273
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:281
+#: vc_params/vc_btn.php:88 vc_params/vc_pie.php:79
+msgid "Style"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:342
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:343
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:344
+#: vc_params/vc_custom_heading.php:129
+msgid "Text Align"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:365
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:366
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:388
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:389
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:408
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:409
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:432
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:433
+#: vc_params/vc_custom_heading.php:49
+msgid "Font Size"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:441
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:450
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:459
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:460
+#: vc_params/vc_btn.php:101 vc_params/vc_custom_heading.php:89
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:478
+#: inc/options/function.options.php:1180
+msgid "Font Color"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/ReduxCore/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: inc/ReduxCore/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/color/validation_color.php:15
+#: inc/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: inc/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/email/validation_email.php:16
+#: inc/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: inc/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: inc/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/footer.tpl.php:48
+#: inc/ReduxCore/templates/panel/header_stickybar.tpl.php:19
+msgid "Save Changes"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/footer.tpl.php:51
+#: inc/ReduxCore/templates/panel/header_stickybar.tpl.php:21
+msgid "Reset Section"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/footer.tpl.php:52
+#: inc/ReduxCore/templates/panel/header_stickybar.tpl.php:22
+msgid "Reset All"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/footer.tpl.php:57
+#: inc/ReduxCore/templates/panel/header_stickybar.tpl.php:25
+msgid "Working..."
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:11
+#: inc/ReduxCore/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: inc/ReduxCore/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: inc/base.class.php:24
+msgid "Blog"
+msgstr ""
+
+#: inc/base.class.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/base.class.php:44
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/base.class.php:47
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/base.class.php:49
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/base.class.php:49
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/base.class.php:51
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/base.class.php:51
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/base.class.php:54
+msgid "Asides"
+msgstr ""
+
+#: inc/base.class.php:56
+msgid "Galleries"
+msgstr ""
+
+#: inc/base.class.php:58
+msgid "Images"
+msgstr ""
+
+#: inc/base.class.php:60
+msgid "Videos"
+msgstr ""
+
+#: inc/base.class.php:62
+msgid "Quotes"
+msgstr ""
+
+#: inc/base.class.php:64
+msgid "Links"
+msgstr ""
+
+#: inc/base.class.php:66
+msgid "Statuses"
+msgstr ""
+
+#: inc/base.class.php:68
+msgid "Audios"
+msgstr ""
+
+#: inc/base.class.php:70
+msgid "Chats"
+msgstr ""
+
+#: inc/base.class.php:159 inc/widgets/cart_search.php:108
+msgid "Search"
+msgstr ""
+
+#: inc/base.class.php:164
+msgid "404 - Page not Found"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:333
+#: inc/options/require.plugins.php:84
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:334
+#: inc/options/require.plugins.php:85
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:335
+#: inc/options/require.plugins.php:86
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:336
+#: inc/options/require.plugins.php:87
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:338
+#: inc/options/require.plugins.php:88
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:343
+#: inc/options/require.plugins.php:89
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:353
+#: inc/options/require.plugins.php:94
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:368
+#: inc/options/require.plugins.php:91
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:373
+#: inc/options/require.plugins.php:92
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:383
+#: inc/options/require.plugins.php:96
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:393
+#: inc/options/require.plugins.php:97
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:397
+#: inc/options/require.plugins.php:98
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:399
+#: inc/libs/class-tgm-plugin-activation.php:3029
+#: inc/options/require.plugins.php:99
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:400
+#: inc/libs/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:828
+#: inc/libs/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:935
+#: inc/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1116
+#: inc/libs/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2438
+#: inc/widgets/flickr-badges-widget.php:226
+msgid "Type"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3370
+#: inc/libs/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3370
+#: inc/libs/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/libs/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:119
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:123
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:147
+msgid "Move up"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:160
+msgid "Move down"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:162 inc/megamenu/mega-menu.php:164
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:180
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:186
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:193
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:198
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:204
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:212
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:242
+msgid "Standard Dropdown"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:243
+msgid "2 columns dropdown"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:244
+msgid "3 columns dropdown"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:246
+msgid "4 columns dropdown"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:247
+msgid "5 columns dropdown"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:271
+msgid "Auto drop"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:272
+msgid "Drop To Left Side"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:273
+msgid "Drop To Right Side"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:274
+msgid "Drop To Center"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:275
+msgid "Full width"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:291
+msgid "Select Widget Area"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:309 inc/megamenu/mega-menu.php:324
+#: inc/widgets/cart_search.php:142 inc/widgets/cart_search.php:149
+#: inc/widgets/tweets.php:217 inc/widgets/tweets.php:224
+msgid "No"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:310 inc/megamenu/mega-menu.php:325
+#: inc/widgets/cart_search.php:143 inc/widgets/cart_search.php:150
+#: inc/widgets/tweets.php:218 inc/widgets/tweets.php:225
+msgid "Yes"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:357
+msgid "Click to browse icon"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:357
+msgid "Browse Icon"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:374
+msgid "Browse Image"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:375
+msgid "Clear"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:467
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/megamenu/mega-menu.php:481
+msgid "Cancel"
+msgstr ""
+
+#: inc/metacore/core.options.php:60
+msgid "Error"
+msgstr ""
+
+#: inc/metacore/core.options.php:363
+msgid "Replace Image"
+msgstr ""
+
+#: inc/metacore/core.options.php:364
+msgid "Remove Image"
+msgstr ""
+
+#: inc/metacore/core.options.php:368 inc/metacore/core.options.php:370
+msgid "Add Image"
+msgstr ""
+
+#: inc/metacore/core.options.php:459 inc/metacore/core.options.php:508
+msgid "Link"
+msgstr ""
+
+#: inc/metacore/core.options.php:460
+msgid "Icon class"
+msgstr ""
+
+#: inc/metacore/core.options.php:461
+msgid "Actions"
+msgstr ""
+
+#: inc/metacore/core.options.php:479
+msgid "Add new"
+msgstr ""
+
+#: inc/metacore/core.options.php:491 single-templates/content-page.php:15
+msgid "Edit"
+msgstr ""
+
+#: inc/metacore/core.options.php:496
+msgid "No item!"
+msgstr ""
+
+#: inc/metacore/core.options.php:509 vc_params/vc_btn.php:169
+#: vc_params/vc_pie.php:90
+msgid "Icon"
+msgstr ""
+
+#: inc/options/function.options.php:11
+msgid "Main Options"
+msgstr ""
+
+#: inc/options/function.options.php:26 inc/options/meta.options.php:47
+#: inc/options/meta.options.php:75
+msgid "Header"
+msgstr ""
+
+#: inc/options/function.options.php:31 inc/options/function.options.php:462
+msgid "Layouts"
+msgstr ""
+
+#: inc/options/function.options.php:32
+msgid "select a layout for header"
+msgstr ""
+
+#: inc/options/function.options.php:46
+msgid "Header Height"
+msgstr ""
+
+#: inc/options/function.options.php:55 inc/options/function.options.php:175
+#: inc/options/function.options.php:493 inc/options/function.options.php:681
+#: inc/options/function.options.php:732 inc/options/function.options.php:832
+#: inc/options/function.options.php:891
+msgid "Margin"
+msgstr ""
+
+#: inc/options/function.options.php:70 inc/options/function.options.php:191
+#: inc/options/function.options.php:508 inc/options/function.options.php:696
+#: inc/options/function.options.php:747 inc/options/function.options.php:848
+#: inc/options/function.options.php:907 vc_params/vc_btn.php:73
+msgid "Padding"
+msgstr ""
+
+#: inc/options/function.options.php:84
+msgid "enable transparent mode for header."
+msgstr ""
+
+#: inc/options/function.options.php:87
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/options/function.options.php:91
+msgid "enable sticky mode for menu."
+msgstr ""
+
+#: inc/options/function.options.php:94 inc/options/function.options.php:1206
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/options/function.options.php:101
+msgid "Sticky Header Height"
+msgstr ""
+
+#: inc/options/function.options.php:110
+msgid "Sticky Header Margin"
+msgstr ""
+
+#: inc/options/function.options.php:126
+msgid "Sticky Header Padding"
+msgstr ""
+
+#: inc/options/function.options.php:141
+msgid "enable sticky mode for menu Tablets."
+msgstr ""
+
+#: inc/options/function.options.php:144
+msgid "Sticky Tablets"
+msgstr ""
+
+#: inc/options/function.options.php:149
+msgid "enable sticky mode for menu Mobile."
+msgstr ""
+
+#: inc/options/function.options.php:152
+msgid "Sticky Mobile"
+msgstr ""
+
+#: inc/options/function.options.php:162
+msgid "Header Top"
+msgstr ""
+
+#: inc/options/function.options.php:167
+msgid "Enable header top."
+msgstr ""
+
+#: inc/options/function.options.php:170
+msgid "Enable Header Top"
+msgstr ""
+
+#: inc/options/function.options.php:210 inc/options/meta.options.php:94
+msgid "Logo"
+msgstr ""
+
+#: inc/options/function.options.php:215
+msgid "Select Logo"
+msgstr ""
+
+#: inc/options/function.options.php:216
+msgid "Select an image file for your logo."
+msgstr ""
+
+#: inc/options/function.options.php:228
+msgid "Logo Height"
+msgstr ""
+
+#: inc/options/function.options.php:238
+msgid "Sticky Logo Height"
+msgstr ""
+
+#: inc/options/function.options.php:249
+msgid "Menu"
+msgstr ""
+
+#: inc/options/function.options.php:262
+msgid "Menu Position"
+msgstr ""
+
+#: inc/options/function.options.php:267
+msgid "Menu Margin - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:283
+msgid "Menu Padding - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:300
+msgid "Menu Font Size - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:320
+msgid "Menu Font Size - Sub Level"
+msgstr ""
+
+#: inc/options/function.options.php:338
+msgid "enable sub menu border bottom."
+msgstr ""
+
+#: inc/options/function.options.php:341
+msgid "Border Bottom Menu Item Sub Level"
+msgstr ""
+
+#: inc/options/function.options.php:345
+msgid "Enable mega menu."
+msgstr ""
+
+#: inc/options/function.options.php:348
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/options/function.options.php:352
+msgid "Enable menu first level uppercase."
+msgstr ""
+
+#: inc/options/function.options.php:355
+msgid "Menu First Level Uppercase"
+msgstr ""
+
+#: inc/options/function.options.php:361
+msgid "Menu Icon Font Size"
+msgstr ""
+
+#: inc/options/function.options.php:382
+msgid "Stick Menu"
+msgstr ""
+
+#: inc/options/function.options.php:389
+msgid "Stick Menu Font Size - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:409
+msgid "Sticky Menu Font Size - Sub Level"
+msgstr ""
+
+#: inc/options/function.options.php:429
+msgid "Sticky Menu Icon Font Size"
+msgstr ""
+
+#: inc/options/function.options.php:463
+msgid "select a layout for page title"
+msgstr ""
+
+#: inc/options/function.options.php:479 inc/options/function.options.php:675
+#: inc/options/function.options.php:726 inc/options/function.options.php:822
+#: inc/options/function.options.php:881
+msgid "Background"
+msgstr ""
+
+#: inc/options/function.options.php:480
+msgid "page title background with image, color, etc."
+msgstr ""
+
+#: inc/options/function.options.php:523
+msgid "Enable Header Parallax"
+msgstr ""
+
+#: inc/options/function.options.php:529
+msgid "Custom Background For Post Type"
+msgstr ""
+
+#: inc/options/function.options.php:542
+#, php-format
+msgid "Background For %s"
+msgstr ""
+
+#: inc/options/function.options.php:543
+#, php-format
+msgid "Custom background image for post type %s"
+msgstr ""
+
+#: inc/options/function.options.php:560
+msgid "Page Title & BC"
+msgstr ""
+
+#: inc/options/function.options.php:568 inc/options/meta.options.php:48
+#: inc/options/meta.options.php:206
+msgid "Page Title"
+msgstr ""
+
+#: inc/options/function.options.php:574 inc/options/function.options.php:631
+#: inc/options/function.options.php:1401
+msgid "Typography"
+msgstr ""
+
+#: inc/options/function.options.php:580 inc/options/function.options.php:637
+msgid "Typography option with title text."
+msgstr ""
+
+#: inc/options/function.options.php:595 inc/options/meta.options.php:219
+#: inc/options/meta.options.php:283 vc_params/vc_custom_heading.php:29
+msgid "Sub Title"
+msgstr ""
+
+#: inc/options/function.options.php:601
+msgid "Typography option with sub title text."
+msgstr ""
+
+#: inc/options/function.options.php:618
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/options/function.options.php:622
+msgid "The text before the breadcrumb home."
+msgstr ""
+
+#: inc/options/function.options.php:625
+msgid "Breadcrumb Home Prefix"
+msgstr ""
+
+#: inc/options/function.options.php:658
+msgid "Body"
+msgstr ""
+
+#: inc/options/function.options.php:669 inc/options/meta.options.php:83
+#: inc/options/meta.options.php:234 inc/options/meta.options.php:532
+#: inc/options/meta.options.php:572
+msgid "Layout"
+msgstr ""
+
+#: inc/options/function.options.php:676
+msgid "body background with image, color, etc."
+msgstr ""
+
+#: inc/options/function.options.php:727
+msgid "Container background with image, color, etc."
+msgstr ""
+
+#: inc/options/function.options.php:770
+msgid "Page Loadding"
+msgstr ""
+
+#: inc/options/function.options.php:775
+msgid "Enable page loadding."
+msgstr ""
+
+#: inc/options/function.options.php:778
+msgid "Enable Page Loadding"
+msgstr ""
+
+#: inc/options/function.options.php:782
+msgid "Select Style Page Loadding."
+msgstr ""
+
+#: inc/options/function.options.php:789
+msgid "Page Loadding Style"
+msgstr ""
+
+#: inc/options/function.options.php:802
+msgid "Footer"
+msgstr ""
+
+#: inc/options/function.options.php:808
+msgid "Footer Top"
+msgstr ""
+
+#: inc/options/function.options.php:813
+msgid "Enable footer top."
+msgstr ""
+
+#: inc/options/function.options.php:816
+msgid "Enable Footer Top"
+msgstr ""
+
+#: inc/options/function.options.php:823
+msgid "footer background with image, color, etc."
+msgstr ""
+
+#: inc/options/function.options.php:867
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/options/function.options.php:872
+msgid "Enable footer bottom."
+msgstr ""
+
+#: inc/options/function.options.php:875
+msgid "Enable Footer Bottom"
+msgstr ""
+
+#: inc/options/function.options.php:882
+msgid "background with image, color, etc."
+msgstr ""
+
+#: inc/options/function.options.php:922
+msgid "enable button back to top."
+msgstr ""
+
+#: inc/options/function.options.php:925
+msgid "Back To Top"
+msgstr ""
+
+#: inc/options/function.options.php:937 vc_params/vc_btn.php:198
+msgid "Button"
+msgstr ""
+
+#: inc/options/function.options.php:943
+msgid "Button Font Size"
+msgstr ""
+
+#: inc/options/function.options.php:960
+msgid "Enable button uppercase."
+msgstr ""
+
+#: inc/options/function.options.php:963
+msgid "Button Text Uppercase"
+msgstr ""
+
+#: inc/options/function.options.php:972
+msgid "Button Default"
+msgstr ""
+
+#: inc/options/function.options.php:977
+msgid "Button Default - Padding"
+msgstr ""
+
+#: inc/options/function.options.php:993
+msgid "Button Default - Border"
+msgstr ""
+
+#: inc/options/function.options.php:1007
+msgid "Button Default - Border Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1022
+msgid "Button Default - Border Radius"
+msgstr ""
+
+#: inc/options/function.options.php:1034
+msgid "Button Primary"
+msgstr ""
+
+#: inc/options/function.options.php:1039
+msgid "Button Primary - Padding"
+msgstr ""
+
+#: inc/options/function.options.php:1055
+msgid "Button Primary - Border"
+msgstr ""
+
+#: inc/options/function.options.php:1069
+msgid "Button Primary - Border Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1084
+msgid "Button Primary - Border Radius"
+msgstr ""
+
+#: inc/options/function.options.php:1099
+msgid "Styling"
+msgstr ""
+
+#: inc/options/function.options.php:1103
+msgid "set color main color."
+msgstr ""
+
+#: inc/options/function.options.php:1106
+msgid "Primary Color"
+msgstr ""
+
+#: inc/options/function.options.php:1112
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/options/function.options.php:1116 inc/options/function.options.php:1124
+msgid "set color for tags <a></a>."
+msgstr ""
+
+#: inc/options/function.options.php:1119
+msgid "Link Color"
+msgstr ""
+
+#: inc/options/function.options.php:1127
+msgid "Link Color Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1132
+msgid "select presets color."
+msgstr ""
+
+#: inc/options/function.options.php:1135
+msgid "Presets Color"
+msgstr ""
+
+#: inc/options/function.options.php:1165
+msgid "Header Top Color"
+msgstr ""
+
+#: inc/options/function.options.php:1170
+msgid "Set background color header top."
+msgstr ""
+
+#: inc/options/function.options.php:1173 vc_params/zo_fancybox.php:137
+msgid "Background Color"
+msgstr ""
+
+#: inc/options/function.options.php:1177
+msgid "Set color header top."
+msgstr ""
+
+#: inc/options/function.options.php:1188
+msgid "Header Main Color"
+msgstr ""
+
+#: inc/options/function.options.php:1193
+msgid "set color for header background color."
+msgstr ""
+
+#: inc/options/function.options.php:1196
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/options/function.options.php:1211
+msgid "set color for sticky header."
+msgstr ""
+
+#: inc/options/function.options.php:1214
+msgid "Sticky Background Color"
+msgstr ""
+
+#: inc/options/function.options.php:1226
+msgid "Menu Color"
+msgstr ""
+
+#: inc/options/function.options.php:1231
+msgid "Controls the text color of first level menu items."
+msgstr ""
+
+#: inc/options/function.options.php:1234
+msgid "Menu Font Color - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:1238 inc/options/function.options.php:1245
+msgid "Controls the text hover color of first level menu items."
+msgstr ""
+
+#: inc/options/function.options.php:1241
+msgid "Menu Font Color Hover - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:1248
+msgid "Menu Font Color Active - First Level"
+msgstr ""
+
+#: inc/options/function.options.php:1252
+msgid "Controls the text color of sub level menu items."
+msgstr ""
+
+#: inc/options/function.options.php:1255
+msgid "Menu Font Color - Sub Level"
+msgstr ""
+
+#: inc/options/function.options.php:1259
+msgid "Controls the text hover color of sub level menu items."
+msgstr ""
+
+#: inc/options/function.options.php:1262
+msgid "Menu Font Color Hover - Sub Level"
+msgstr ""
+
+#: inc/options/function.options.php:1266
+msgid "Controls the border color of sub level menu items."
+msgstr ""
+
+#: inc/options/function.options.php:1269
+msgid "Border Color - Sub Level"
+msgstr ""
+
+#: inc/options/function.options.php:1279
+msgid "Button Color"
+msgstr ""
+
+#: inc/options/function.options.php:1284 inc/options/function.options.php:1312
+msgid "Controls the button text color."
+msgstr ""
+
+#: inc/options/function.options.php:1287
+msgid "Button Default - Font Color"
+msgstr ""
+
+#: inc/options/function.options.php:1291 inc/options/function.options.php:1319
+msgid "Controls the button text hover color."
+msgstr ""
+
+#: inc/options/function.options.php:1294
+msgid "Button Default - Font Color Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1298 inc/options/function.options.php:1305
+#: inc/options/function.options.php:1326 inc/options/function.options.php:1333
+msgid "Controls the button background color."
+msgstr ""
+
+#: inc/options/function.options.php:1301
+msgid "Button Default - Background Color"
+msgstr ""
+
+#: inc/options/function.options.php:1308
+msgid "Button Default - Background Color Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1315
+msgid "Button Primary - Font Color"
+msgstr ""
+
+#: inc/options/function.options.php:1322
+msgid "Button Primary - Font Color Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1329
+msgid "Button Primary - Background Color"
+msgstr ""
+
+#: inc/options/function.options.php:1336
+msgid "Button Primary - Background Color Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1344 inc/options/function.options.php:1352
+msgid "Footer Top Color"
+msgstr ""
+
+#: inc/options/function.options.php:1349 inc/options/function.options.php:1386
+msgid "Set color footer top."
+msgstr ""
+
+#: inc/options/function.options.php:1356
+msgid "Set title color footer top."
+msgstr ""
+
+#: inc/options/function.options.php:1359
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/options/function.options.php:1363 inc/options/function.options.php:1370
+msgid "Set title link color footer top."
+msgstr ""
+
+#: inc/options/function.options.php:1366
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/options/function.options.php:1373
+msgid "Footer Link Color Hover"
+msgstr ""
+
+#: inc/options/function.options.php:1381 inc/options/function.options.php:1389
+msgid "Footer Bottom Color"
+msgstr ""
+
+#: inc/options/function.options.php:1407
+msgid "Body Font"
+msgstr ""
+
+#: inc/options/function.options.php:1423
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: inc/options/function.options.php:1428
+msgid "H1"
+msgstr ""
+
+#: inc/options/function.options.php:1448
+msgid "H2"
+msgstr ""
+
+#: inc/options/function.options.php:1468
+msgid "H3"
+msgstr ""
+
+#: inc/options/function.options.php:1488
+msgid "H4"
+msgstr ""
+
+#: inc/options/function.options.php:1508
+msgid "H5"
+msgstr ""
+
+#: inc/options/function.options.php:1528
+msgid "H6"
+msgstr ""
+
+#: inc/options/function.options.php:1550
+msgid "Extra Fonts"
+msgstr ""
+
+#: inc/options/function.options.php:1557
+msgid "Font 1"
+msgstr ""
+
+#: inc/options/function.options.php:1574 inc/options/function.options.php:1648
+msgid "Selector 1"
+msgstr ""
+
+#: inc/options/function.options.php:1575 inc/options/function.options.php:1600
+#: inc/options/function.options.php:1625 inc/options/function.options.php:1649
+#: inc/options/function.options.php:1669
+msgid "add html tags ID or class (body,a,.class,#id)"
+msgstr ""
+
+#: inc/options/function.options.php:1582
+msgid "Font 2"
+msgstr ""
+
+#: inc/options/function.options.php:1599 inc/options/function.options.php:1668
+msgid "Selector 2"
+msgstr ""
+
+#: inc/options/function.options.php:1607
+msgid "Font 3"
+msgstr ""
+
+#: inc/options/function.options.php:1624
+msgid "Selector 3"
+msgstr ""
+
+#: inc/options/function.options.php:1634
+msgid "Local Fonts"
+msgstr ""
+
+#: inc/options/function.options.php:1641
+msgid "Fonts 1"
+msgstr ""
+
+#: inc/options/function.options.php:1661
+msgid "Fonts 2"
+msgstr ""
+
+#: inc/options/function.options.php:1688
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/options/function.options.php:1694
+msgid "CSS Code"
+msgstr ""
+
+#: inc/options/function.options.php:1695
+msgid "create your css code here."
+msgstr ""
+
+#: inc/options/function.options.php:1708
+msgid "Animations"
+msgstr ""
+
+#: inc/options/function.options.php:1712
+msgid "Enable animation parallax for images..."
+msgstr ""
+
+#: inc/options/function.options.php:1715
+msgid "Images Paralax"
+msgstr ""
+
+#: inc/options/function.options.php:1727
+msgid "Optimal Core"
+msgstr ""
+
+#: inc/options/function.options.php:1731
+msgid "no minimize , generate css over time..."
+msgstr ""
+
+#: inc/options/function.options.php:1734
+msgid "Dev Mode (not recommended)"
+msgstr ""
+
+#: inc/options/functions.php:59
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/options/functions.php:60 inc/options/functions.php:66
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/functions.php:65
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/options/functions.php:70
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/options/functions.php:85
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options/functions.php:93 inc/options/functions.php:94
+msgid "ZAP Settings"
+msgstr ""
+
+#: inc/options/meta.options.php:29
+msgid "Setting"
+msgstr ""
+
+#: inc/options/meta.options.php:30
+msgid "Testimonial about"
+msgstr ""
+
+#: inc/options/meta.options.php:31
+msgid "Pricing Option"
+msgstr ""
+
+#: inc/options/meta.options.php:32
+msgid "Team About"
+msgstr ""
+
+#: inc/options/meta.options.php:33
+msgid "Portfolio About"
+msgstr ""
+
+#: inc/options/meta.options.php:46 inc/options/meta.options.php:500
+#: inc/widgets/flickr-badges-widget.php:205
+msgid "General"
+msgstr ""
+
+#: inc/options/meta.options.php:55
+msgid "Full Width"
+msgstr ""
+
+#: inc/options/meta.options.php:61
+msgid "Page layout"
+msgstr ""
+
+#: inc/options/meta.options.php:102
+msgid "Logo on canvans"
+msgstr ""
+
+#: inc/options/meta.options.php:111
+msgid "Disable Header Transparent"
+msgstr ""
+
+#: inc/options/meta.options.php:121
+msgid "Custom Header Menu Color"
+msgstr ""
+
+#: inc/options/meta.options.php:129
+msgid "Menu Color - First Level"
+msgstr ""
+
+#: inc/options/meta.options.php:135
+msgid "Menu Hover - First Level"
+msgstr ""
+
+#: inc/options/meta.options.php:141
+msgid "Menu Active - First Level"
+msgstr ""
+
+#: inc/options/meta.options.php:151
+msgid "Header Fixed"
+msgstr ""
+
+#: inc/options/meta.options.php:159
+msgid "Header Fixed - Background Color"
+msgstr ""
+
+#: inc/options/meta.options.php:166
+msgid "Header Fixed - Menu Color - First Level"
+msgstr ""
+
+#: inc/options/meta.options.php:172
+msgid "Header Fixed - Menu Hover Color - First Level"
+msgstr ""
+
+#: inc/options/meta.options.php:178
+msgid "Header Fixed - Menu Active Color - First Level"
+msgstr ""
+
+#: inc/options/meta.options.php:224
+msgid "Page Title Margin"
+msgstr ""
+
+#: inc/options/meta.options.php:229
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/options/meta.options.php:260
+msgid "Client Position"
+msgstr ""
+
+#: inc/options/meta.options.php:278
+msgid "Background Title"
+msgstr ""
+
+#: inc/options/meta.options.php:288 woocommerce/cart/cart.php:36
+#: woocommerce/cart/cart.php:95
+msgid "Price"
+msgstr ""
+
+#: inc/options/meta.options.php:294
+msgid "Hot"
+msgstr ""
+
+#: inc/options/meta.options.php:301
+msgid "Value"
+msgstr ""
+
+#: inc/options/meta.options.php:311
+msgid "Icon Font"
+msgstr ""
+
+#: inc/options/meta.options.php:317
+msgid "Icon Image"
+msgstr ""
+
+#: inc/options/meta.options.php:323
+msgid "Button Url"
+msgstr ""
+
+#: inc/options/meta.options.php:329
+msgid "Button Text"
+msgstr ""
+
+#: inc/options/meta.options.php:335
+msgid "Is feature"
+msgstr ""
+
+#: inc/options/meta.options.php:345
+msgid "Option 1"
+msgstr ""
+
+#: inc/options/meta.options.php:351
+msgid "Option 1 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:361
+msgid "Option 2"
+msgstr ""
+
+#: inc/options/meta.options.php:367
+msgid "Option 2 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:377
+msgid "Option 3"
+msgstr ""
+
+#: inc/options/meta.options.php:383
+msgid "Option 3 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:393
+msgid "Option 4"
+msgstr ""
+
+#: inc/options/meta.options.php:399
+msgid "Option 4 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:409
+msgid "Option 5"
+msgstr ""
+
+#: inc/options/meta.options.php:415
+msgid "Option 5 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:425
+msgid "Option 6"
+msgstr ""
+
+#: inc/options/meta.options.php:431
+msgid "Option 6 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:441
+msgid "Option 7"
+msgstr ""
+
+#: inc/options/meta.options.php:447
+msgid "Option 7 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:457
+msgid "Option 8"
+msgstr ""
+
+#: inc/options/meta.options.php:463
+msgid "Option 8 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:473
+msgid "Option 9"
+msgstr ""
+
+#: inc/options/meta.options.php:479
+msgid "Option 9 Feature"
+msgstr ""
+
+#: inc/options/meta.options.php:499 inc/options/meta.options.php:507
+msgid "Position"
+msgstr ""
+
+#: inc/options/meta.options.php:517
+msgid "Socials of team"
+msgstr ""
+
+#: inc/options/meta.options.php:531
+msgid "About"
+msgstr ""
+
+#: inc/options/meta.options.php:539
+#: single-templates/portfolio/content-gallery.php:57
+#: single-templates/portfolio/content.php:58
+msgid "Client"
+msgstr ""
+
+#: inc/options/meta.options.php:545
+#: single-templates/portfolio/content-gallery.php:61
+#: single-templates/portfolio/content.php:62
+msgid "Date"
+msgstr ""
+
+#: inc/options/meta.options.php:551
+#: single-templates/portfolio/content-gallery.php:65
+#: single-templates/portfolio/content.php:66
+msgid "Skills"
+msgstr ""
+
+#: inc/options/meta.options.php:563
+msgid "Gallery"
+msgstr ""
+
+#: inc/options/require.plugins.php:90
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/options/require.plugins.php:93
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/options/require.plugins.php:95
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/options/require.plugins.php:100
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/presets/presets.php:33
+msgid "Predefined Color Schemes"
+msgstr ""
+
+#: inc/presets/presets.php:55
+msgid "Choose Your Layout Style"
+msgstr ""
+
+#: inc/presets/presets.php:59
+msgid "Wide"
+msgstr ""
+
+#: inc/presets/presets.php:60
+msgid "Boxed"
+msgstr ""
+
+#: inc/template.functions.php:240 vc_templates/zo_grid--blog-style-3.php:45
+msgid "by"
+msgstr ""
+
+#: inc/template.functions.php:262
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/template.functions.php:402 inc/template.functions.php:426
+msgid "STANDARD"
+msgstr ""
+
+#: inc/template.functions.php:406
+msgid "GALLERY"
+msgstr ""
+
+#: inc/template.functions.php:410
+msgid "LINK"
+msgstr ""
+
+#: inc/template.functions.php:414
+msgid "QUOTE"
+msgstr ""
+
+#: inc/template.functions.php:418
+msgid "VIDEO"
+msgstr ""
+
+#: inc/template.functions.php:422
+msgid "AUDIO"
+msgstr ""
+
+#: inc/template.functions.php:516
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template.functions.php:520
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/widgets/cart_search.php:6
+msgid "Cart & Search"
+msgstr ""
+
+#: inc/widgets/cart_search.php:7
+msgid "Display the user's Cart and Search form in the sidebar."
+msgstr ""
+
+#: inc/widgets/cart_search.php:81 inc/widgets/cart_search.php:222
+#: woocommerce/cart/mini-cart.php:71
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/widgets/cart_search.php:89 inc/widgets/cart_search.php:229
+msgid "Sub Total"
+msgstr ""
+
+#: inc/widgets/cart_search.php:90 inc/widgets/cart_search.php:230
+msgid "Process To Checkout"
+msgstr ""
+
+#: inc/widgets/cart_search.php:91 inc/widgets/cart_search.php:231
+msgid "View Shopping Cart"
+msgstr ""
+
+#: inc/widgets/cart_search.php:136
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:235
+#: inc/widgets/recent_post_v2.php:121 inc/widgets/social.php:254
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/cart_search.php:140
+msgid "Show Cart:"
+msgstr ""
+
+#: inc/widgets/cart_search.php:147
+msgid "Show Search:"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:25
+msgid "Displays a Flickr photo stream from an ID"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:28
+msgid "ZO Flickr Badge"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:133
+msgid "Please provide an Flickr ID"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:175
+msgid "Flickr Widget"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:191
+msgid "user"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:192
+msgid "group"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:195
+msgid "Standard"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:196 inc/widgets/instagram.php:104
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:197
+msgid "Medium"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:200
+msgid "latest"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:201
+msgid "random"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:206
+msgid "Customs"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:222
+msgid "Give the widget title, or leave it empty for no title."
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:227
+msgid "The type of images from user or group."
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:235
+msgid "Flickr ID"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:237
+#, php-format
+msgid ""
+"Put the flickr ID here, go to <a href=\"%s\" target=\"_blank\">Flickr NSID "
+"Lookup</a> if you don't know your ID. Example: 71865026@N00"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:240
+msgid "Number"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:241
+msgid "Number of images shown from 1 to 10"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:245
+msgid "Display Method"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:246
+msgid "Get the image from recent or use random function."
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:254
+msgid "Sizes"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:255
+msgid "Represents the size of the image"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:268
+msgid "Intro Text"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:269
+msgid ""
+"This option will display addtional text before the widget content and HTML "
+"supports."
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:273
+msgid "Outro Text"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:274
+msgid "This option will display addtional text after widget and HTML supports."
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:279
+msgid "Custom Script & Stylesheet"
+msgstr ""
+
+#: inc/widgets/flickr-badges-widget.php:280
+msgid ""
+"Use this box for additional widget CSS style of custom javascript. Current "
+"widget selector: "
+msgstr ""
+
+#: inc/widgets/instagram.php:7
+msgid "ZO Instagram"
+msgstr ""
+
+#: inc/widgets/instagram.php:8
+msgid "ZO Instagram Widget"
+msgstr ""
+
+#: inc/widgets/instagram.php:86
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/instagram.php:86
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/instagram.php:98
+msgid "User ID"
+msgstr ""
+
+#: inc/widgets/instagram.php:99
+msgid "Client ID"
+msgstr ""
+
+#: inc/widgets/instagram.php:100
+msgid "Number of photos"
+msgstr ""
+
+#: inc/widgets/instagram.php:101
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/instagram.php:102
+msgid "Photo size"
+msgstr ""
+
+#: inc/widgets/instagram.php:105
+msgid "Large"
+msgstr ""
+
+#: inc/widgets/instagram.php:108
+msgid "Open links in"
+msgstr ""
+
+#: inc/widgets/instagram.php:110
+msgid "Current window (_self)"
+msgstr ""
+
+#: inc/widgets/instagram.php:111
+msgid "New window (_blank)"
+msgstr ""
+
+#: inc/widgets/instagram.php:114
+msgid "Link text"
+msgstr ""
+
+#: inc/widgets/instagram.php:130 inc/widgets/instagram.php:184
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: inc/widgets/instagram.php:133 inc/widgets/instagram.php:187
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: inc/widgets/instagram.php:137
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/widgets/news_tabs.php:12
+msgid "ZO News Tab Widget"
+msgstr ""
+
+#: inc/widgets/news_tabs.php:12
+msgid "Popular post, recent post and comments."
+msgstr ""
+
+#: inc/widgets/news_tabs.php:45
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/news_tabs.php:48
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:15
+msgid "Recent Posts With Thumbnails"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:16
+msgid ""
+"List of your site&#8217;s most recent posts, with clickable title and "
+"thumbnails."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:171
+#: vc_templates/zo_grid--blog-style-1.php:47
+#: vc_templates/zo_grid--image-top.php:53
+#: vc_templates/zo_grid--no-thumbnail.php:56
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:238
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:242
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:244
+msgid "Thumbnail Options"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:247
+msgid "Display post featured image?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:249
+msgid "Width of thumbnail"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:252
+msgid "Height of thumbnail"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:256
+msgid "Use aspect ratios of original images?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:256
+msgid ""
+"If checked the given width is used to determine the height of the thumbnail "
+"automatically. This option also supports responsive web design."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:259
+msgid "Do not show title?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:259
+msgid ""
+"Make sure you set a default thumbnail for posts without a thumbnail, "
+"otherwise there will be no link."
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:262
+msgid "Try to use the post's first image if post has no featured image?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:265
+msgid "Use first image only, ignore featured image?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:268
+msgid "Use default thumbnail if no image could be determined?"
+msgstr ""
+
+#: inc/widgets/recent-posts-widget-with-thumbnails.php:270
+msgid "URL of default thumbnail (start with http://)"
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:13
+msgid "ZO Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:14
+msgid "Recent Posts Widget."
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:21
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:125
+msgid "Show date:"
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:129
+msgid "Show Description:"
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:133
+msgid "Show Category:"
+msgstr ""
+
+#: inc/widgets/recent_post_v2.php:137
+msgid "Number of products to show:"
+msgstr ""
+
+#: inc/widgets/social.php:7 inc/widgets/social.php:17
+msgid "Social"
+msgstr ""
+
+#: inc/widgets/social.php:8
+msgid "Social Widget"
+msgstr ""
+
+#: inc/widgets/social.php:257
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/social.php:260
+msgid "Square"
+msgstr ""
+
+#: inc/widgets/social.php:261
+msgid "Rounded Square"
+msgstr ""
+
+#: inc/widgets/social.php:262
+msgid "Circle"
+msgstr ""
+
+#: inc/widgets/social.php:263
+msgid "Box Style 1"
+msgstr ""
+
+#: inc/widgets/social.php:264
+msgid "Box Style 2"
+msgstr ""
+
+#: inc/widgets/social.php:265
+msgid "No List"
+msgstr ""
+
+#: inc/widgets/social.php:266
+msgid "Circle Border"
+msgstr ""
+
+#: inc/widgets/social.php:270
+msgid "Content Align:"
+msgstr ""
+
+#: inc/widgets/social.php:273 vc_params/vc_btn.php:132
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/social.php:278
+msgid "Icon 1:"
+msgstr ""
+
+#: inc/widgets/social.php:280
+msgid "Link 1:"
+msgstr ""
+
+#: inc/widgets/social.php:283
+msgid "Icon 2:"
+msgstr ""
+
+#: inc/widgets/social.php:285
+msgid "Link 2:"
+msgstr ""
+
+#: inc/widgets/social.php:288
+msgid "Icon 3:"
+msgstr ""
+
+#: inc/widgets/social.php:290
+msgid "Link 3:"
+msgstr ""
+
+#: inc/widgets/social.php:293
+msgid "Icon 4:"
+msgstr ""
+
+#: inc/widgets/social.php:295
+msgid "Link 4:"
+msgstr ""
+
+#: inc/widgets/social.php:298
+msgid "Icon 5:"
+msgstr ""
+
+#: inc/widgets/social.php:300
+msgid "Link 5:"
+msgstr ""
+
+#: inc/widgets/social.php:303
+msgid "Icon 6:"
+msgstr ""
+
+#: inc/widgets/social.php:305
+msgid "Link 6:"
+msgstr ""
+
+#: inc/widgets/social.php:308
+msgid "Icon 7:"
+msgstr ""
+
+#: inc/widgets/social.php:310
+msgid "Link 7:"
+msgstr ""
+
+#: inc/widgets/social.php:313
+msgid "Icon 8:"
+msgstr ""
+
+#: inc/widgets/social.php:315
+msgid "Link 8:"
+msgstr ""
+
+#: inc/widgets/social.php:318
+msgid "Icon 9:"
+msgstr ""
+
+#: inc/widgets/social.php:320
+msgid "Link 9:"
+msgstr ""
+
+#: inc/widgets/social.php:323
+msgid "Icon 10:"
+msgstr ""
+
+#: inc/widgets/social.php:325
+msgid "Link 10:"
+msgstr ""
+
+#: inc/widgets/social.php:328
+msgid "Icon 11:"
+msgstr ""
+
+#: inc/widgets/social.php:330
+msgid "Link 11:"
+msgstr ""
+
+#: inc/widgets/social.php:333
+msgid "Icon 12:"
+msgstr ""
+
+#: inc/widgets/social.php:335
+msgid "Link 12:"
+msgstr ""
+
+#: inc/widgets/social.php:338
+msgid "Icon 13:"
+msgstr ""
+
+#: inc/widgets/social.php:340
+msgid "Link 13:"
+msgstr ""
+
+#: inc/widgets/social.php:343
+msgid "Icon 14:"
+msgstr ""
+
+#: inc/widgets/social.php:345
+msgid "Link 14:"
+msgstr ""
+
+#: inc/widgets/tweets.php:15
+msgid "ZO Twitter"
+msgstr ""
+
+#: inc/widgets/tweets.php:16
+msgid "Twitter New Status Widget."
+msgstr ""
+
+#: index.php:39
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:43
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: index.php:50 search.php:29 single-templates/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: index.php:54 single-templates/content-none.php:17
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: search.php:33
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:3
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single-templates/content/content-audio.php:37
+#: single-templates/content/content-gallery.php:25
+#: single-templates/content/content-link.php:31
+#: single-templates/content/content-quote.php:21
+#: single-templates/content/content-video.php:36
+#: single-templates/content/content.php:30
+#: single-templates/masonry/content-audio.php:34
+#: single-templates/masonry/content-gallery.php:22
+#: single-templates/masonry/content-link.php:28
+#: single-templates/masonry/content-quote.php:21
+#: single-templates/masonry/content-video.php:33
+#: single-templates/masonry/content.php:29
+#: single-templates/portfolio/content-gallery.php:43
+#: single-templates/portfolio/content.php:45
+#: single-templates/single/content-audio.php:27
+#: single-templates/single/content-gallery.php:27
+#: single-templates/single/content-link.php:33
+#: single-templates/single/content-quote.php:26
+#: single-templates/single/content-video.php:27
+#: single-templates/single/content.php:24
+msgid "Pages:"
+msgstr ""
+
+#: single-templates/content/content-audio.php:41
+#: single-templates/content/content-gallery.php:29
+#: single-templates/content/content-link.php:35
+#: single-templates/content/content-quote.php:25
+#: single-templates/content/content-video.php:40
+#: single-templates/content/content.php:34
+#: single-templates/masonry/content-audio.php:38
+#: single-templates/masonry/content-gallery.php:26
+#: single-templates/masonry/content-link.php:32
+#: single-templates/masonry/content-quote.php:25
+#: single-templates/masonry/content-video.php:37
+#: single-templates/masonry/content.php:33
+#: single-templates/portfolio/content-gallery.php:47
+#: single-templates/portfolio/content.php:49
+#: single-templates/single/content-audio.php:31
+#: single-templates/single/content-gallery.php:31
+#: single-templates/single/content-link.php:37
+#: single-templates/single/content-quote.php:30
+#: single-templates/single/content-video.php:31
+#: single-templates/single/content.php:28
+msgid "Page"
+msgstr ""
+
+#: single-templates/content/content-audio.php:46
+#: single-templates/content/content-gallery.php:34
+#: single-templates/content/content-link.php:40
+#: single-templates/content/content-quote.php:30
+#: single-templates/content/content-video.php:45
+#: single-templates/content/content.php:39
+#: single-templates/masonry/content-audio.php:43
+#: single-templates/masonry/content-gallery.php:31
+#: single-templates/masonry/content-link.php:37
+#: single-templates/masonry/content-quote.php:30
+#: single-templates/masonry/content-video.php:42
+#: single-templates/masonry/content.php:38
+msgid "Read More "
+msgstr ""
+
+#: single-templates/portfolio/content-gallery.php:68
+#: single-templates/portfolio/content.php:69
+msgid "View Project"
+msgstr ""
+
+#: vc_params/vc_accordion.php:11
+msgid "Accordion Background Color"
+msgstr ""
+
+#: vc_params/vc_accordion.php:18
+msgid "Accordion Border Color"
+msgstr ""
+
+#: vc_params/vc_accordion.php:24
+msgid "Accordion Icon"
+msgstr ""
+
+#: vc_params/vc_accordion.php:26
+msgid ""
+"Select icon website(http://fortawesome.github.io/Font-Awesome/icons;https://"
+"icomoon.io/app/)"
+msgstr ""
+
+#: vc_params/vc_btn.php:23
+msgid "Pixel"
+msgstr ""
+
+#: vc_params/vc_btn.php:37
+msgid "Text Button"
+msgstr ""
+
+#: vc_params/vc_btn.php:41
+msgid "Text on the button"
+msgstr ""
+
+#: vc_params/vc_btn.php:45
+msgid "URL (Link)"
+msgstr ""
+
+#: vc_params/vc_btn.php:47
+msgid "Add link to button."
+msgstr ""
+
+#: vc_params/vc_btn.php:55
+msgid "Button Type"
+msgstr ""
+
+#: vc_params/vc_btn.php:75 vc_params/vc_btn.php:117
+msgid "Ex: 15px 35px 15px 35px."
+msgstr ""
+
+#: vc_params/vc_btn.php:79
+msgid "Border"
+msgstr ""
+
+#: vc_params/vc_btn.php:82
+msgid "1px"
+msgstr ""
+
+#: vc_params/vc_btn.php:83
+msgid "2px"
+msgstr ""
+
+#: vc_params/vc_btn.php:92
+msgid "Style 1"
+msgstr ""
+
+#: vc_params/vc_btn.php:93
+msgid "Style 2"
+msgstr ""
+
+#: vc_params/vc_btn.php:94
+msgid "Style 3"
+msgstr ""
+
+#: vc_params/vc_btn.php:95
+msgid "Style 4"
+msgstr ""
+
+#: vc_params/vc_btn.php:96
+msgid "Style 5"
+msgstr ""
+
+#: vc_params/vc_btn.php:105
+msgid "Letter Spacing 50"
+msgstr ""
+
+#: vc_params/vc_btn.php:106
+msgid "Letter Spacing 100"
+msgstr ""
+
+#: vc_params/vc_btn.php:107
+msgid "Letter Spacing 200"
+msgstr ""
+
+#: vc_params/vc_btn.php:108
+msgid "Letter Spacing 300"
+msgstr ""
+
+#: vc_params/vc_btn.php:109
+msgid "Letter Spacing 400"
+msgstr ""
+
+#: vc_params/vc_btn.php:110
+msgid "Letter Spacing 500"
+msgstr ""
+
+#: vc_params/vc_btn.php:115
+msgid "Radius"
+msgstr ""
+
+#: vc_params/vc_btn.php:123
+msgid "Alignment"
+msgstr ""
+
+#: vc_params/vc_btn.php:125
+msgid "Select button alignment."
+msgstr ""
+
+#: vc_params/vc_btn.php:127
+msgid "Inline"
+msgstr ""
+
+#: vc_params/vc_btn.php:137
+msgid "Set full width button?"
+msgstr ""
+
+#: vc_params/vc_btn.php:146
+msgid "Add icon?"
+msgstr ""
+
+#: vc_params/vc_btn.php:151
+msgid "Icon Alignment"
+msgstr ""
+
+#: vc_params/vc_btn.php:152
+msgid "Select icon alignment."
+msgstr ""
+
+#: vc_params/vc_btn.php:181 vc_params/vc_custom_heading.php:166
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_params/vc_btn.php:188
+msgid "Extra class name"
+msgstr ""
+
+#: vc_params/vc_btn.php:190
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: vc_params/vc_btn.php:204
+msgid "Eye catching button"
+msgstr ""
+
+#: vc_params/vc_column.php:11 vc_params/vc_rows.php:40
+msgid "Animation"
+msgstr ""
+
+#: vc_params/vc_column.php:60 vc_params/vc_rows.php:89
+msgid "View animation effect at https://daneden.github.io/animate.css/"
+msgstr ""
+
+#: vc_params/vc_column.php:65 vc_params/vc_rows.php:95
+msgid "Animation Delay"
+msgstr ""
+
+#: vc_params/vc_column.php:72 vc_params/vc_rows.php:102
+msgid "Delay before the animation starts. Ex: 200ms, 0.5s, 1s..."
+msgstr ""
+
+#: vc_params/vc_custom_heading.php:11
+msgid "Custom Heading Style"
+msgstr ""
+
+#: vc_params/vc_custom_heading.php:69
+msgid "Font Weight"
+msgstr ""
+
+#: vc_params/vc_custom_heading.php:109
+msgid "Line height"
+msgstr ""
+
+#: vc_params/vc_custom_heading.php:153
+msgid "Title icon"
+msgstr ""
+
+#: vc_params/vc_images_carousel.php:11
+msgid "Carousel Libraries"
+msgstr ""
+
+#: vc_params/vc_images_carousel.php:23
+msgid "Show Pagination With Image"
+msgstr ""
+
+#: vc_params/vc_images_carousel.php:38
+msgid "Number Image For Pagination"
+msgstr ""
+
+#: vc_params/vc_pie.php:11
+msgid "Heading size"
+msgstr ""
+
+#: vc_params/vc_pie.php:27 vc_params/zo_counter.php:24
+#: vc_params/zo_fancybox.php:45
+msgid "Title Color"
+msgstr ""
+
+#: vc_params/vc_pie.php:32
+msgid "Pie icon"
+msgstr ""
+
+#: vc_params/vc_pie.php:39
+msgid "Icon Size"
+msgstr ""
+
+#: vc_params/vc_pie.php:41
+msgid "Font size of icon"
+msgstr ""
+
+#: vc_params/vc_pie.php:47
+msgid "Icon Color"
+msgstr ""
+
+#: vc_params/vc_pie.php:55
+msgid "Bar color"
+msgstr ""
+
+#: vc_params/vc_pie.php:58
+msgid "Select pie chart color."
+msgstr ""
+
+#: vc_params/vc_pie.php:65
+msgid "Bar Width"
+msgstr ""
+
+#: vc_params/vc_pie.php:85
+msgid "Select style for pie."
+msgstr ""
+
+#: vc_params/vc_pie.php:93
+msgid ""
+"You can find icon class at here: <a target=\"_blank\" href=\"http://"
+"fontawesome.io/icons/\">\"http://fontawesome.io/icons/</a>. For example, fa "
+"fa-heart"
+msgstr ""
+
+#: vc_params/vc_rows.php:13
+msgid "Parallax"
+msgstr ""
+
+#: vc_params/vc_rows.php:16
+msgid "None"
+msgstr ""
+
+#: vc_params/vc_rows.php:17
+msgid "Simple"
+msgstr ""
+
+#: vc_params/vc_rows.php:18
+msgid "With fade"
+msgstr ""
+
+#: vc_params/vc_rows.php:20
+msgid ""
+"Add parallax type background for row (Note: If no image is specified, "
+"parallax will use background image from Design Options)."
+msgstr ""
+
+#: vc_params/vc_rows.php:28
+msgid "Image"
+msgstr ""
+
+#: vc_params/vc_rows.php:31
+msgid "Select image from media library."
+msgstr ""
+
+#: vc_params/vc_rows.php:128
+msgid "Overlay Color"
+msgstr ""
+
+#: vc_params/vc_rows.php:139 vc_params/zo_fancybox.php:84
+msgid "Color"
+msgstr ""
+
+#: vc_params/vc_separator.php:9
+msgid "Style Border Width"
+msgstr ""
+
+#: vc_params/vc_separator.php:17
+msgid "Separator align"
+msgstr ""
+
+#: vc_params/vc_separator.php:29
+msgid "Show Arrow"
+msgstr ""
+
+#: vc_params/vc_separator.php:40
+msgid "Arrow Type"
+msgstr ""
+
+#: vc_params/vc_separator.php:51
+msgid "Arrow Width"
+msgstr ""
+
+#: vc_params/vc_separator.php:59
+msgid "Arrow Color"
+msgstr ""
+
+#: vc_params/vc_separator.php:67
+msgid "Custom Sparator Width"
+msgstr ""
+
+#: vc_params/vc_tabs.php:11
+msgid "Tab Background Color"
+msgstr ""
+
+#: vc_params/vc_tabs.php:18
+msgid "Tab Border Color"
+msgstr ""
+
+#: vc_params/vc_tabs.php:24
+msgid "Tab Icon"
+msgstr ""
+
+#: vc_params/zo_counter.php:6 vc_params/zo_fancybox.php:5
+#: vc_params/zo_grid.php:5
+msgid "Title Size"
+msgstr ""
+
+#: vc_params/zo_counter.php:18
+msgid "Text Color"
+msgstr ""
+
+#: vc_params/zo_counter.php:30 vc_params/zo_fancybox.php:51
+msgid "Content Color"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:17
+msgid "Icon - Color"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:23
+msgid "Icon - Border Color"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:29
+msgid "Icon - Font size"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:35
+msgid "Icon - Border Size"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:57
+msgid "Fancybox Border Bottom Color"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:64
+msgid "Fancybox Style"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:75
+msgid "Custom Color Text More Info"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:95
+msgid "Color Hover"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:106
+msgid "Custom Color Button More Info"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:115
+msgid "Border Color"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:126
+msgid "Border Color Hover"
+msgstr ""
+
+#: vc_params/zo_fancybox.php:148
+msgid "Background Color Hover"
+msgstr ""
+
+#: vc_params/zo_grid.php:17 vc_params/zo_masonry.php:5
+msgid "Filter Style"
+msgstr ""
+
+#: vc_params/zo_grid.php:32
+msgid "Team Button More Text"
+msgstr ""
+
+#: vc_params/zo_grid.php:45
+msgid "Team Button More Icon"
+msgstr ""
+
+#: vc_params/zo_grid.php:63
+msgid "Team Button Link"
+msgstr ""
+
+#: vc_params/zo_masonry.php:11
+msgid "Template"
+msgstr ""
+
+#: vc_params/zo_progressbar.php:6
+msgid "Progress Custom Icon"
+msgstr ""
+
+#: vc_params/zo_progressbar.php:9
+msgid ""
+"Select icon website(http://fortawesome.github.io/Font-Awesome/icons - http://"
+"ionicons.com/)"
+msgstr ""
+
+#: vc_params/zo_progressbar.php:13
+msgid "Progress Icon Color"
+msgstr ""
+
+#: vc_params/zo_progressbar.php:20
+msgid "Progress Icon Font Size"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:15
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tab.php:14
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:52
+msgid "Previous tab"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:52
+msgid "Next tab"
+msgstr ""
+
+#: vc_templates/zo_grid--blog-style-3.php:54
+msgid "More"
+msgstr ""
+
+#: vc_templates/zo_grid--blog-style-4.php:44
+#: vc_templates/zo_grid--blog-style-5.php:44
+msgid "Read more"
+msgstr ""
+
+#: vc_templates/zo_grid--no-thumbnail-1.php:52
+msgid "Order Services"
+msgstr ""
+
+#: vc_templates/zo_grid--pricing-1.php:33
+#: vc_templates/zo_grid--pricing-2.php:41
+#: vc_templates/zo_grid--pricing-3.php:40
+#: vc_templates/zo_grid--pricing-icon.php:40
+#: vc_templates/zo_grid--pricing.php:45
+msgid "$"
+msgstr ""
+
+#: vc_templates/zo_grid--pricing-2.php:44
+#: vc_templates/zo_grid--pricing-3.php:43
+msgid "HOT"
+msgstr ""
+
+#: vc_templates/zo_grid--product-1.php:50 woocommerce/content-product.php:38
+#: woocommerce/single-product/related.php:106
+msgid "View detail"
+msgstr ""
+
+#: vc_templates/zo_grid--service-style-2.php:54
+msgid "ORDER NOW"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:47
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:49
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:101
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:118
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:58 woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Empty Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "HAVE A COUPON ?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Enter your code..."
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "ESTIMATE SHIPPING TAX"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:84
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:16
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "*"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Country"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:48
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:70
+#: woocommerce/cart/shipping-calculator.php:71
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "State / Province"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:49
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:81
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:96
+msgid "Estimate Tax"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:43
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:33
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:58
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:16
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:34
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:76
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:79
+msgid ""
+"The standard chunk of Lorem Ipsum used since the 1500s is reproduced below "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "ZAP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://zotheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The 2015 theme for WordPress is a fully responsive theme that looks great on "
+"any device. Features include a front page template with its own widgets, an "
+"optional display font, styling for post formats on both index and single "
+"views, and an optional no-sidebar page template. Make it yours with a custom "
+"menu, header image, and background."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/ZoTheme"
+msgstr ""

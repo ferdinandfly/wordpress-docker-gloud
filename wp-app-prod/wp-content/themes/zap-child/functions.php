@@ -625,6 +625,7 @@ function admin_email_on_registration( $customer_id) {
     wp_new_user_notification( $customer_id );
 }
 
+add_filter('woocommerce_login_redirect', 'sfereUserLoginNotification',1, 2);
 /*add_action( 'woocommerce_email', 'unhook_those_pesky_emails' );
 
 function unhook_those_pesky_emails( $email_class ) {
