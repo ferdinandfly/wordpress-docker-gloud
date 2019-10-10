@@ -10,7 +10,9 @@ services:
       - ${IP}:443:443 # change ip if required
     volumes:
       - ./config/php.conf.ini:/usr/local/etc/php/conf.d/conf.ini
+      - ./config/sendmail.ini:/usr/local/etc/php/conf.d/sendmail.ini
       - ./config/apache2:/etc/apache2
+      - ./config/msmtprc:/etc//msmtprc
       - backend-prod:/var/www/html # Full wordpress project
       #- ./plugin-name/trunk/:/var/www/html/wp-content/plugins/plugin-name # Plugin development
       #- ./theme-name/trunk/:/var/www/html/wp-content/themes/theme-name # Theme development

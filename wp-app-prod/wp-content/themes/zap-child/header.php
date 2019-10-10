@@ -71,12 +71,24 @@ if(function_exists ( 'zo_presets_selector' )) zo_presets_selector();
 <? elseif ($currentLang=='zh'): ?>
    <div class="HeaderClass"><strong>ARDETEM ELECTRONIC METER CO.LTD: Building 3+ NO215 Yaohua RD Pudong District | Shanghai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;: <strong>021-58883650&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9993;&nbsp;<a style="color:#fff" href="mailto:contact@ardetem-cn.com"><strong>contact@ardetem-cn.com</strong></a>
    </div>
+<?php elseif ($currentLang === 'fr'):?>
+       <div class="HeaderClass">
+            <?php  if (geoip_detect2_get_info_from_current_ip()->country->isoCode === 'FR') : ?>
+                <strong>ARDETEM SFERE: Parc d'arbora n°2 Route de brindas 69510 SOUCIEU EN JARREST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;:
+                <strong>00 33 472313130&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9993;&nbsp;
+                <a style="color:#fff" href="mailto:info@sfere-net.com">
+                    <strong>info@sfere-net.com</strong>
+                </a>&nbsp;&#9993;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="mailto:info@ardetem.com"><strong>info@ardetem.com</strong></a>
+            <?php else : ?>
+                <strong>DIARY &nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;: <strong> 123456 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9993;
+           &nbsp;<a style="color:#fff" href="mailto:info@sfere-net.com"><strong>diary@somewhere.com</strong></a>&nbsp;&#9993;
+           <?endif?>
+       </div>
 <? else: ?>
-   <div class="HeaderClass"><strong>ARDETEM SFERE: Parc d'arbora n°2 Route de brindas 69510 SOUCIEU EN JARREST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;: <strong>00 33 
-   472313130&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   </strong>&#9993;&nbsp;<a style="color:#fff" href="mailto:info@sfere-net.com"><strong>info@sfere-net.com</strong></a>&nbsp;&#9993;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:info@ardetem.com"><strong>info@ardetem.com</strong></a>
-   </div>
-<? endif; ?>
+       <strong>DIARY &nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;: <strong> 123456 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9993;
+      &nbsp;<a style="color:#fff" href="mailto:info@sfere-net.com"><strong>diary@somewhere.com</strong></a>&nbsp;&#9993;
+   <? endif; ?>
 
 
    <?php zo_header(); ?>

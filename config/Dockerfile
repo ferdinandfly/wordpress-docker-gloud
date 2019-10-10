@@ -97,6 +97,14 @@ RUN set -eux; \
 # (replace all instances of "%h" with "%a" in LogFormat)
 	find /etc/apache2 -type f -name '*.conf' -exec sed -ri 's/([[:space:]]*LogFormat[[:space:]]+"[^"]*)%h([^"]*")/\1%a\2/g' '{}' +
 
+# mail smtp
+RUN apt-get update
+RUN apt-get install -y msmtp
+RUN rm -rf /var/lib/apt/lists/*
+RUN mkdir /var/log/msmtp
+RUN chown www-data:www-data /var/log/msmtp
+
+RUN echo "sendmail_path = /usr/bin/msmtp -t --read-envelope-from" >> /usr/local/etc/php/conf.d/sendmail.ini
 
 VOLUME /var/www/html
 
