@@ -9,4 +9,4 @@ wp-app-prod/wp-content/uploads/*
 wp-app-prod/wp-content/updraft/*
 config/dump.sql
 ardetem.zip
-!wp-app-prod/wp-content/plugins/custom_new_user_email.php
+!wp-app-prod/wp-content/plugins/custom_user_email.php

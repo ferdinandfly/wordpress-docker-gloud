@@ -627,9 +627,6 @@ add_action('woocommerce_created_customer', 'admin_email_on_registration', 10 , 1
 function admin_email_on_registration( $customer_id) {
     wp_new_user_notification( $customer_id );
 }
-
-add_action('dlm_downloading','sfereUserDownloadFile', 10, 3);
-
 /*add_action( 'woocommerce_email', 'unhook_those_pesky_emails' );
 
 function unhook_those_pesky_emails( $email_class ) {
