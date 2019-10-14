@@ -36,6 +36,9 @@ if (!function_exists('wp_new_user_notification')) {
         if (empty($plaintext_pass))
             return;
     }
+
+    add_action('woocommerce_created_customer', 'wp_new_user_notification', 10 , 1);
+
 }
 
 
