@@ -32,11 +32,19 @@ start:
 	docker-compose up -d --remove-orphans
 
 ## Wordpress bash
+varnish:
+	docker-compose exec varnish bash
+
 bash:
 	docker-compose exec wp bash
 
 log:
 	docker-compose logs -f
+
+## reload config
+
+reload-varnish:
+	docker-compose exec varnish reload
 
 ## sync with gcloud
 sync:

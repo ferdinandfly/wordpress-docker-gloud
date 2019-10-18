@@ -121,7 +121,7 @@
                 District | Shanghai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;: <strong>021-58883650&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9993;&nbsp;
             <a style="color:#fff" href="mailto:contact@ardetem-cn.com"><strong>contact@ardetem-cn.com</strong></a>
         <?php elseif ($currentLang === 'fr'): ?>
-            <?php if (geoip_detect2_get_info_from_current_ip()->country->isoCode === 'FR') : ?>
+            <?php if ( (geoip_detect2_get_info_from_current_ip()->country->isoCode) === 'FR') : ?>
                 <strong>ARDETEM SFERE: Parc d'arbora n°2 Route de brindas 69510 SOUCIEU EN JARREST&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9743;&nbsp;:
                 <strong>00 33 472313130&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&#9993;&nbsp;
                 <a style="color:#fff" href="mailto:info@sfere-net.com">

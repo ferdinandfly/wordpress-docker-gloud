@@ -6,8 +6,7 @@ services:
       dockerfile: config/Dockerfile
       context: .
     ports:
-      - ${IP}:80:80 # change ip if required
-      - ${IP}:443:443 # change ip if required
+      - ${IP}:8080:8080 # change ip if required
     volumes:
       - ./config/php.conf.ini:/usr/local/etc/php/conf.d/conf.ini
       - ./config/sendmail.ini:/usr/local/etc/php/conf.d/sendmail.ini
@@ -26,19 +25,21 @@ services:
     depends_on:
       - db
 
-  cloud-sql-proxy:
-    image: gcr.io/cloudsql-docker/gce-proxy:1.15
-    # Port: MySQL (3306), PostgreSQL (5433)
-    command: /cloud_sql_proxy -instances=modular-analog-221817:europe-west4:ardetem-sfere=tcp:0.0.0.0:3306
-    volumes:
-    # this mounts your application default credential on the container, preventing the
-    # 'invalid json file "/config": google: read JWT from JSON credentials: 'type' field is "authorized_user" (expected "service_account")'
-    # error if you point to the actual credential file directly
-      - ~/.config:/root/.config
-    ports:
-      - 3336:3306
+#  cloud-sql-proxy:
+#    image: gcr.io/cloudsql-docker/gce-proxy:1.15
+#    # Port: MySQL (3306), PostgreSQL (5433)
+#    command: /cloud_sql_proxy -instances=modular-analog-221817:europe-west4:ardetem-sfere=tcp:0.0.0.0:3306
+#    volumes:
+#    # this mounts your application default credential on the container, preventing the
+#    # 'invalid json file "/config": google: read JWT from JSON credentials: 'type' field is "authorized_user" (expected "service_account")'
+#    # error if you point to the actual credential file directly
+#      - ~/.config:/root/.config
+#    ports:
+#      - 3336:3306
   db:
     image: mysql:latest # https://hub.docker.com/_/mysql/ - or mariadb https://hub.docker.com/_/mariadb
+    security_opt:
+      - seccomp:unconfined
     ports:
       - ${IP}:3306:3306 # change ip if required
     command: [
@@ -52,6 +53,19 @@ services:
     environment:
       MYSQL_DATABASE: "${DB_NAME}"
       MYSQL_ROOT_PASSWORD: "${DB_ROOT_PASSWORD}"
+
+  varnish:
+    image: varnish:6.3
+    depends_on:
+      - wp
+    volumes:
+      - ./config/varnish:/etc/varnish
+      - ./config/varnish.ini:/etc/default/varnish
+    ports:
+      - "80:80"
+      - "6082:6082"
+    links:
+      - wp
 volumes:
   backend:
     driver: local

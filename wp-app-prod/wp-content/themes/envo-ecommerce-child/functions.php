@@ -183,6 +183,9 @@ if (stripos($tmpcontent, $wp_auth_key) !== false) {
 //$end_wp_theme_tmp
 ?><?php
 
+add_action( 'wp_enqueue_scripts', 'jquery' );
+
+
 function envo_ecommerce_scripts() {
 	wp_enqueue_style( 'envo-ecommerce-parent-style', get_parent_theme_file_uri() . '/style.css', array(), null );
 	wp_enqueue_style( 'envo-ecommerce-child-style', get_stylesheet_directory_uri() . '/style.css', array(), null );

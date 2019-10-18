@@ -74,8 +74,8 @@ $table_prefix  = 'wpard_';
 */
 define( 'WP_MEMORY_LIMIT', '64M' );
 define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', false);
 define('WP_DEBUG_DISPLAY',true);
-define('WP_DEBUG_LOG', true);
 define('AUTOSAVE_INTERVAL', 300);
 define('WP_POST_REVISIONS', 2);
 /* That's all, stop editing! Happy blogging. */
